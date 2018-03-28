@@ -6,7 +6,7 @@ Sentiment analysis performed using TextBlob (by _bag of words_ method on default
 First, add your Twitter API keys by replacing the _YOUR_KEY_HERE_ placeholders. Those are obtained from the Twitter Application Management page. Replace _my_keyword_ with your search query and optionally specify a file to save to, and a tweet count (defaults to 1000).
 
 ```
-python TwitterBlob.py my_keyword --file saved_data.csv --count 1000
+python TwitterBlob.py my_keyword --file saved_data.csv --count 42
 ```
 ## Examples
 Below are a few results:
