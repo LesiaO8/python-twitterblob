@@ -6,7 +6,7 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import stats
-
+#commented by lesia
 parser = argparse.ArgumentParser()
 parser.add_argument("keyword")
 parser.add_argument("--file", default = 0)
